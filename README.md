@@ -510,3 +510,4 @@ AWS EC2
 Apache Tomcat
         ↓
 Live Web Application
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e98d095b-6504-48a4-a575-0343590a852f" />
